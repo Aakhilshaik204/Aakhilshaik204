@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shaik%20Mohammad%20Aakhil&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20build%20AI%20products%20that%20actually%20ship%20%F0%9F%9A%80&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shaik%20Mohammad%20Aakhil&fontSize=42&fontColor=ffffff&animation=fa[...]" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Agent+Development+Lead+%40+Nava+AI+%F0%9F%A4%96;Built+a+live+Android+AI+app+%E2%80%94+NoteView+AI+%F0%9F%9A%80;Multi-Agent+Systems+%7C+LLMs+%7C+RAG+Pipelines;Cursor+%7C+Claude+AI+%7C+Copilot+%E2%80%94+AI-native+builder;I+find+the+problem.+I+ship+the+solution.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Agent+Development+Lead+%40+Nava+AI+%F0%9F%A[...]
 
 </div>
 
@@ -138,6 +138,58 @@ Built with →  Cursor AI + Antigravity framework. Shipped to production indepen
 </tr>
 </table>
 
+<!-- New projects: CrewUp, Krid, Xeno CRM -->
+
+<table>
+<tr>
+<td width="33%">
+
+### 🚢 [CrewUp](https://github.com/Aakhilshaik204/CrewUp)
+**Problem:** Managing crew schedules, availability, and assignments is manual and error-prone.
+**Solution:** CrewUp — a lightweight crew management & scheduling app that centralizes availability, assignments, and notifications.
+
+- Shift & roster management with conflict detection
+- Availability calendars and push notifications
+- Responsive UI for managers and crew
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Live](https://img.shields.io/badge/STATUS-IN%20PROGRESS-orange?style=flat)
+
+</td>
+<td width="33%">
+
+### 🤖 [Krid.AI](https://github.com/Aakhilshaik204/Krid.AI---Multi-Tenant-Agentic-WhatsApp-Orchestrator)
+**Problem:** Building and operating multi-tenant WhatsApp agent workflows at scale is complex.
+**Solution:** Krid.AI — a multi-tenant, agentic WhatsApp orchestrator for chat automation and tenant isolation.
+
+- Tenant-aware orchestration and webhook-driven flows
+- Agent pipelines, retries, and observability
+- Built for production multi-tenant SaaS use-cases
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![WIP](https://img.shields.io/badge/STATUS-IN%20PROGRESS-orange?style=flat)
+
+</td>
+<td width="33%">
+
+### ⚙️ [Xeno CRM](https://github.com/Aakhilshaik204/Xeno-CRM)
+**Problem:** Teams need an extendable CRM with built-in automation and lightweight integrations.
+**Solution:** Xeno CRM — modular CRM with pipelines, contact management, and automation hooks.
+
+- Contact & pipeline management, custom fields
+- Webhook integrations and lightweight automation rules
+- Designed for extensibility with TypeScript and modular services
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Live](https://img.shields.io/badge/STATUS-ALPHA-yellow?style=flat)
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -177,14 +229,14 @@ Built with →  Cursor AI + Antigravity framework. Shipped to production indepen
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AakhilShaik204&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakhilShaik204&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AakhilShaik204&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=[...]" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakhilshaik204&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AakhilShaik204&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aakhilshaik204&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
